@@ -84,10 +84,10 @@ export default function ContactSection() {
           className="text-center mb-16"
         >
           <h2 className="text-4xl md:text-5xl font-bold gradient-text mb-6">
-            Let's Connect
+            Let us Connect
           </h2>
           <p className="text-slate-300 text-lg max-w-3xl mx-auto">
-            Ready to discuss cybersecurity challenges, backend development projects, or potential collaboration opportunities? I'm always excited about meaningful conversations.
+            Ready to discuss cybersecurity challenges, backend development projects, or potential collaboration opportunities? I am always excited about meaningful conversations.
           </p>
         </motion.div>
 
