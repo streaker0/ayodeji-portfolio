@@ -31,7 +31,7 @@ export default function HeroSection() {
             <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-cyan-500 rounded-full animate-glow"></div>
             <div className="relative w-full h-full bg-dark-800 rounded-full overflow-hidden border-4 border-white/20">
               <Image
-                src="/profile/profile-picture.JPG"
+                src="/profile/profile-picture.jpg"
                 alt="Ayodeji Akinble - Professional Photo"
                 width={128}
                 height={128}
