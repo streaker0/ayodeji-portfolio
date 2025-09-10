@@ -67,13 +67,13 @@ export default function AboutSection() {
               </h3>
               <div className="space-y-4 text-slate-200 leading-relaxed">
                 <p>
-                  I have always been drawn to the intersection of development and security. Coming out of my computer science degree, I landed at Infosys working on enterprise systems where security wasn't an afterthought - it was built into everything from authentication to cloud infrastructure.
+                  I have always been drawn to the intersection of development and security. Coming out of my computer science degree, I landed at Infosys working on enterprise systems where security was not an afterthought - it was built into everything from authentication to cloud infrastructure.
                 </p>
                 <p>
                   At ESS NG, I got to work on something completely different - backend services for gaming platforms processing 50,000+ transactions daily. The combination of high availability, strict regulatory compliance, and real-time performance taught me how to build systems that actually work under pressure.
                 </p>
                 <p>
-                  Now at Career Minds, I am creating cybersecurity training content - building hands-on labs for SOAR automation and vulnerability assessment. The startup side came naturally when I kept seeing communication problems in every company I worked at. So I started I-Assist, a platform that uses AI agents to help businesses handle their communications more intelligently. It's been a learning curve going from employee to founder, but my technical background in secure, scalable systems gives me confidence we can build something that actually works.
+                  Now at Career Minds, I am creating cybersecurity training content - building hands-on labs for SOAR automation and vulnerability assessment. The startup side came naturally when I kept seeing communication problems in every company I worked at. So I started I-Assist, a platform that uses AI agents to help businesses handle their communications more intelligently. It has been a learning curve going from employee to founder, but my technical background in secure, scalable systems gives me confidence we can build something that actually works.
                 </p>
               </div>
             </div>
