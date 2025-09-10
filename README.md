@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Ayodeji Akinbile - Portfolio Website
+
+A modern, responsive portfolio website showcasing my journey as a full-stack developer, cybersecurity professional, and startup founder.
+
+## About
+
+This portfolio highlights my experience in cybersecurity content development, backend systems, and building innovative solutions like I-Assist - an AI-powered conversation intelligence platform.
+
+## Tech Stack
+
+- **Framework**: Next.js 15 with App Router
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **Animations**: Framer Motion
+- **Icons**: Lucide React
+- **Font**: Inter (Google Fonts)
+
+## Features
+
+- Modern glass-morphism design with gradient effects
+- Fully responsive across all devices
+- Smooth animations and micro-interactions
+- Professional certification display with verification links
+- Contact form integration
+- SEO optimized
+
+## Sections
+
+- **Hero**: Professional introduction with gradient branding
+- **About**: Career journey and current focus areas
+- **Projects**: Featured work including I-Assist, Bulk Pay, and Fortune of Temple
+- **Skills**: Technical expertise with animated progress bars
+- **Experience**: Professional timeline with achievements
+- **Contact**: Get in touch form and professional links
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
+# Install dependencies
+npm install
+
+# Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+# Build for production
+npm run build
+
+# Start production server
+npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to view the portfolio locally.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Deployment
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Optimized for deployment on Vercel:
 
-## Learn More
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-username/portfolio)
 
-To learn more about Next.js, take a look at the following resources:
+## Contact
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Email**: aakin006@outlook.com
+- **LinkedIn**: [ayodeji-akinbile](https://linkedin.com/in/ayodeji-akinbile)
+- **GitHub**: [streaker0](https://github.com/streaker0)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## License
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+© 2025 Ayodeji Akinbile. All rights reserved.
