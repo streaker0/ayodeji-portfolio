@@ -8,6 +8,9 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Ayodeji Akinbile - Startup Founder & Full-Stack Developer',
+  icons:{
+    icon:'/favicon.ico'
+  },
   description: 'Startup Founder building conversation intelligence technology. Full-stack developer with cybersecurity expertise and teaching experience.',
   keywords: 'Full-Stack Developer, Cybersecurity, Startup Founder, Software Engineer',
   authors: [{ name: 'Ayodeji Akinbile' }],
@@ -25,7 +28,8 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className="scroll-smooth">
-      <body className={`${inter.className} bg-hero-pattern min-h-screen text-primary-100`}>
+      <body className={`${inter.className} bg-hero-pattern min-h-screen text-primary-100`}
+      suppressHydrationWarning={true}>
         {children}
       </body>
     </html>
