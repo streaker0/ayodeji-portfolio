@@ -52,21 +52,20 @@ const projects: Project[] = [
     demoLink: '#'
   },
   {
-    title: 'Fortune of Temple',
-    subtitle: 'Custom Card Game Web App',
-    description: 'Custom card game combining Mississippi Stud and Blackjack mechanics. Features responsive design, real-time gameplay, and engaging user interface.',
+    title: 'Temple of Fortune',
+    subtitle: 'Strategic Card Game Web App',
+    description: 'Strategic card game where players get closer to 20 than the dealer. Features face-up/face-down betting mechanics with different payout structures and animated gameplay.',
     keyFeatures: [
       'Custom Game Logic',
-      'Real-time Gameplay',
+      'Animated Card Dealing',
       'Responsive Design',
-      'User Experience'
     ],
-    techStack: ['React', 'Node.js', 'WebSocket', 'CSS3'],
+    techStack: ['React', 'TypeScript', 'Tailwind CSS', 'Lucide React'],
     status: 'Live',
     statusColor: 'bg-green-50 text-green-600 border border-green-200',
     icon: Globe,
-    demoLink: 'https://main.d1imyoe5gm4hjx.amplifyapp.com/signup',
-    githubLink: '#'
+    demoLink: 'https://temple-of-fortune.vercel.app/',
+    githubLink: 'https://github.com/streaker0/temple-of-fortune'
   }
 ]
 
