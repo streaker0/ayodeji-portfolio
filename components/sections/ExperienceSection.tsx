@@ -25,7 +25,7 @@ const experiences: Experience[] = [
     description: 'Creating hands-on cybersecurity educational content and labs for 500+ learners. Building automated security workflows and developing comprehensive training materials for SOAR, Zero Trust, and vulnerability assessment.',
     achievements: [
       'Accelerated cloud security skills for 500+ learners through hands-on AWS labs',
-      'Reduced manual vulnerability assessment effort by 60% with automated scanning systems',
+      'Developed and implemented vulnerability triage processes utilizing multiple risk scoring frameworks and established remediation workflows on OpenVas and Nessus',
       'Enhanced threat response time with real-time Splunk SOAR playbooks',
       'Strengthened organizational security posture with CIS and GDPR-aligned policy guides'
     ],
@@ -33,37 +33,37 @@ const experiences: Experience[] = [
     current: true
   },
   {
-    title: 'Backend Developer',
-    company: 'ESS NG',
-    period: 'September 2023 - January 2025',
-    location: 'Remote',
-    description: 'Developed high-availability backend services for regulated gaming platform processing 50,000+ daily transactions. Implemented secure authentication systems and optimized microservices architecture on Kubernetes.',
-    achievements: [
-      'Achieved 99.95% uptime while processing 50,000+ daily transactions',
-      'Secured user authentication with Azure AD B2C integration and real-time odds calculation',
-      'Improved API performance by 35% through optimized microservices deployment',
-      'Delivered zero critical production incidents with 82% test coverage'
-    ],
-    technologies: ['Kotlin', 'Kubernetes', 'Azure AD B2C', 'Microservices', 'MockK']
+  title: 'Backend Developer',
+  company: 'ESS NG',
+  period: 'September 2023 - January 2025',
+  location: 'Remote',
+  description: 'Developed high-availability backend services for regulated gaming platform processing 50,000+ daily transactions. Built resilient payment systems for terminal-based betting operations with comprehensive error handling and automated reconciliation.',
+  achievements: [
+    'Achieved 99.99% uptime while processing 50,000+ daily transactions with blue-green deployment strategies',
+    'Developed resilient payment and betting logic with network interruption handling and automated transaction reconciliation',
+    'Improved API performance by 35% through optimized microservices deployment and container tuning',
+    'Delivered zero critical production incidents by maintaining 82% test coverage with automated CI/CD pipelines'
+  ],
+  technologies: ['Kotlin', 'Kubernetes', 'Database Versioning', 'MockK', 'CI/CD']
   },
   {
-    title: 'Full Stack Developer',
-    company: 'Infosys Ltd',
-    period: 'June 2022 - September 2023',
-    location: 'Remote',
-    description: 'Enhanced enterprise security for distributed workforce by implementing MFA, OAuth2, and access management controls in AWS-hosted warehouse management system. Developed Python automation scripts for security monitoring.',
-    achievements: [
-      'Enhanced enterprise security with MFA, OAuth2, and access management controls',
-      'Streamlined compliance reporting through Python automation scripts',
-      'Minimized security vulnerabilities with orchestrated patch deployment across cloud infrastructure',
-      'Improved stakeholder decision-making with clear, actionable security reports'
-    ],
-    technologies: ['Python', 'AWS', 'OAuth2', 'MFA', 'Security Automation']
+  title: 'Full Stack Developer',
+  company: 'Infosys Ltd',
+  period: 'June 2022 - September 2023',
+  location: 'Remote',
+  description: 'Developed multi-warehouse inventory management system enabling real-time goods provisioning, predictive analytics, and automated expiry prevention. Built role-based access controls and predictive dashboards for distributed warehouse operations.',
+  achievements: [
+    'Developed multi-warehouse inventory management system with real-time goods provisioning and fast-selling item analytics',
+    'Implemented role-based access control enabling warehouse owners to securely manage user permissions across multiple facilities',
+    'Built predictive analytics dashboard using .NET and SQL Server to optimize stock levels and reduce waste',
+    'Implemented automated stock markup prevention and expiry tracking system, minimizing financial losses from expired goods'
+  ],
+  technologies: ['.NET', 'SQL Server', 'Angular']
   },
   {
     title: 'Startup Founder',
     company: 'I-Assist',
-    period: '2024 - Present',
+    period: '2025 - Present',
     location: 'Remote',
     description: 'Building an AI conversation intelligence platform that uses AI agents to analyze email threads and generate contextually-aware responses. Managing full-stack development and business strategy.',
     achievements: [
