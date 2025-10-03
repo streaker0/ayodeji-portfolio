@@ -16,7 +16,7 @@ export default function HeroSection() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-6xl md:text-8xl font-light tracking-tight text-black mb-8"
           >
-            Ayodeji Akinble
+            Ayodeji Akinbile
           </motion.h1>
 
           {/* Title/Role */}

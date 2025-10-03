@@ -10,7 +10,7 @@ export default function AboutSection() {
     threshold: 0.1,
   })
 
-  const aboutText = `Hello! I\'m Ayodeji Akinble, a startup founder with a background in cybersecurity and backend development. My experience spans enterprise systems, gaming platforms, and financial technologies, where I\'ve learned that security is fundamental to building reliable solutions. I specialize in backend architecture and creating secure systems that solve real-world communication and business problems using technologies like Node.js, cloud infrastructure, and AI integration. Currently, I\'m developing I-Assist, a platform that helps businesses handle their communications more intelligently, while continuing to expand my expertise in penetration testing and system security.`
+  const aboutText = `Hello! I\'m Ayodeji Akinbile, a startup founder with a background in cybersecurity and backend development. My experience spans enterprise systems, gaming platforms, and financial technologies, where I\'ve learned that security is fundamental to building reliable solutions. I specialize in backend architecture and creating secure systems that solve real-world communication and business problems using technologies like Node.js, cloud infrastructure, and AI integration. Currently, I\'m developing I-Assist, a platform that helps businesses handle their communications more intelligently, while continuing to expand my expertise in penetration testing and system security.`
 
   return (
     <section id="about" className="min-h-screen flex items-center justify-center relative bg-white">
